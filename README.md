@@ -46,9 +46,6 @@ For the causality model:
 ipython causality_model/Pearlian_DAG.ipynb
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
