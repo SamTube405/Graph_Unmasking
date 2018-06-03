@@ -23,7 +23,7 @@ What things you need to install the software and how to install them
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+A step by step series of examples that tell you how to get a development env running, For the attack model:
 
 
 ```
@@ -40,6 +40,11 @@ And repeat
 ./run_attack_model.sh <graph name> <synthetic graph name>
 ```
 
+
+For the causality model:
+```
+ipython causality_model/Pearlian_DAG.ipynb
+```
 
 ## Deployment
 
