@@ -1,23 +1,7 @@
+
 # Graph_Unmasking
-Codebase for the Understanding the Structural Forces that Make Social Graphs Vulnerable to De-anonymization
 
-## Python Libs. to install
-* snap
-* pandas
-* numpy
-* itertools
-* matplotlib
-* sklearn
-* imblearn
-
-## How to run:
-cd scripts/
-./run_attack_model.sh fb107 fb107
-
-
-# Project Title
-
-Graph_Unmasking: codebase to mount de-anonymization attacks on social graphs, and explaining the success of such attack via network metrics
+Python codebase to mount meachine-learning based de-anonymization attacks on social graphs, and explaining the success of such attack via network metrics
 
 ## Getting Started
 
