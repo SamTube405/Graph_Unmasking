@@ -28,16 +28,17 @@ A step by step series of examples that tell you how to get a development env run
 
 ```
 cd scripts/
-./run_attack_model.sh fb107 fb107
+./run_attack_model.sh <graph name> <synthetic graph name>
 ```
 
 And repeat
 
 ```
+./run_attack_model.sh fb107 fb107
 ./run_attack_model.sh caGrQc caGrQc
 ./run_attack_model.sh soc-anybeat soc-anybeat
 ./run_attack_model.sh soc-gplus soc-gplus
-./run_attack_model.sh <graph name> <synthetic graph name>
+./run_attack_model.sh wikinews wikinews
 ```
 
 
